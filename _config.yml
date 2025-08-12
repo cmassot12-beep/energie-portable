@@ -1,0 +1,16 @@
+title: Énergie Portable — Guides & Tests
+description: Guides pratiques sur les stations électriques portables et générateurs solaires.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: ""     # set by GitHub Pages
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Rédaction Automatique IA"
+      tags: ["stations électriques", "solaire", "portable power"]
